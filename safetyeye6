@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Safety Eye Solar Solutions"</title>
+        <style>
+        body    {
+            background-color: Blue;
+            color: Orange;
+            font-family: cursive;
+        }
+        h1  {
+            color: Orange;
+            text-align: center;
+            }
+        h2  {
+            color: Orange;
+            text-align: center;
+            position: absolute;
+            top: 65px;
+            left: 150px;
+            }
+        h3  {
+            position: absolute;
+            top: 380px;
+            left: 10px;
+            
+        }
+        #solar {
+            width: 120px;
+            margin-right: 10px;
+            margin-bottom: 10px;
+            border: 6px Ridge Orange;
+            position: absolute;
+            top: 150px;
+        }
+        #info   {
+            position: absolute;
+            top: 110px;
+            left: 150px;
+        }
+        #e-mail    {
+            color: Orange;
+            position: absolute;
+            top: 280px;
+            left: 10px;
+        }
+        #whatsapp   {
+            position: absolute;
+            bottom: 1px;
+            left: 10px;
+        }
+        </style>
+    </head>
+    <body>
+        <h1>Safety Eye Solar Solutions</h1>
+        <h2>George Labuschagne</h2>
+         <img id="solar" src=" https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Children_of_the_Sun_Solar_Initiative_%2848132850231%29.jpg/800px-Children_of_the_Sun_Solar_Initiative_%2848132850231%29.jpg
+ ">
+    <div id="info"><p>072 477 1788
+    </p>
+ <ul>
+     <li>Installation of industrial & residential solar systems</li>
+     <li>Off grid and grid tide</li>
+     <li>Certificate of compliance issued</li>
+     <li>Greater North West Area, Pretoria and JHB West Rand</li>
+        </ul> </div>
+<div id="e-mail"><p><em>e-mail: </em><a href="https://safetyeyesolar@gmail.com">safetyeyesolar@gmail.com</a></p>
+    </div>
+<div id="whatsapp"><p><em>whatsapp: </em><a href="https://api.whatsapp.com/send?phone=27724771788" style="display: inline-block; padding:16px; border-radius: 8px; background-color: #25D366; color: #fff; text-decoration: none; font-family: sans-serif; font-size: 7px;">Contact us on WhatsApp</a></p>
+</div>
+    <h3>Contact us for more info and quotation today!</h3>
+       </body>
+</html>
+
